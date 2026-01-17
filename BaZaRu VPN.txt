@@ -1,6 +1,6 @@
 #profile-update-interval: 3
 #profile-title: BaZaRuVPN (Для ЧС/Wifi) By тгк: @LowiK_Live
-vless://ca856a86-ec36-4a49-b182-4f935c57a459@78.24.219.14:443?security=reality&encryption=none&pbk=rpv8I3I481OmcF2POICkkywORT9OuJcbo10DrCJV-gU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.microsoft.com&sid=b1#by+LowiK_Live+%D0%BD%D0%B0+firstvds+%D0%B4%D0%BE+22.00
+vless://ca856a86-ec36-4a49-b182-4f935c57a459@78.24.219.14:443?security=reality&encryption=none&pbk=rpv8I3I481OmcF2POICkkywORT9OuJcbo10DrCJV-gU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=azure.microsoft.com&sid=b1#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20by%20LowiK_Live%20%28%D0%BD%D0%B0%20firstvds%20%D0%B4%D0%BE%2022.00%29
 vless://7192ff2b-da63-4ca6-a17e-029f006e332d@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2010Gbps
 vless://7192ff2b-da63-4ca6-a17e-029f006e332d@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=bc97736f81817c41#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2025Gbps
 vless://d9bb2e40-a972-4436-bb43-7031e4eeec99@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=fc7a526a7e61ba3b#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2010Gbps
@@ -131,5 +131,6 @@ vless://09003b62-5cfc-4615-bcc1-b515080c91ea@144.31.19.106:8443?path=%2Fws&secur
 vless://09003b62-5cfc-4615-bcc1-b515080c91ea@50.7.38.34:8090?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=ws&sni=chat.speedload.ru#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%28VPN%2326-WS%29
 trojan://ybQjV8BHA2JQemCFAfc-RxWs9uhkdF@94.103.169.70:8443?security=tls&alpn=h2%2Chttp%2F1.1&host=chat.speedload.ru&headerType=none&fp=qq&type=tcp&sni=chat.speedload.ru#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%28VPN%2327-WS%29
 trojan://ybQjV8BHA2JQemCFAfc-RxWs9uhkdF@217.12.204.110:8443?security=tls&alpn=h2%2Chttp%2F1.1&host=chat.speedload.ru&headerType=none&fp=qq&type=tcp&sni=chat.speedload.ru#%F0%9F%87%AC%F0%9F%87%B7%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F%28VPN%2328-WS%29
+
 
 

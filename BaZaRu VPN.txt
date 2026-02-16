@@ -1,5 +1,9 @@
 #profile-update-interval: 3
+#hide-settings: 1
 #profile-title: BaZaRu-VpN (Для ЧС/Wifi)
+#announce: Помни все правила и им следуй, также если не работают пробуй наладить Happ (ДНС, возможно Mux и фрагментацию и шум) либо жди фикса! Также если проблема напиши проблему в форуме (но ни в коем случае не пали ключ и тп по правилам)! И также для скачки торрентов использовать только на спец серверах тут! И желательно юзать кфг по порядку сверху вниз с начала!
+#support-url: https://t.me/LowiKForum
+#profile-web-page-url: https://t.me/LowiK_Live
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=ab1c1a11#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@free.spectrum.vu:443?security=reality&encryption=none&pbk=qNyuqiky1x0VL88_KzItJpZNQ1DfkSPTBf5BBLJRrnA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=free.spectrum.vu&sid=28b11f1e725a23ad#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@ge.spectrum.vu:3443?security=reality&encryption=none&pbk=zzYWpG6MD1Nxjwvx404XUkyKC7XqcuztekRxt2kqJ1Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
@@ -511,3 +515,4 @@ vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:4249?security=reality
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:2443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.serverstats.ru&sid=a20d3ed244c76426#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%28VPN%2336-%D0%9C%D0%BE%D1%81%D1%82%E2%9A%A1%29
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-31
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-42
+

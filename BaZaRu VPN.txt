@@ -1,4 +1,5 @@
 #profile-update-interval: 3
+#subscription-always-hwid-enable: 1
 #hide-settings: 1
 #profile-title: BaZaRu-VpN (Для ЧС/Wifi)
 #announce: Помни все правила и им следуй, также если не работают пробуй наладить Happ (ДНС, возможно Mux и фрагментацию и шум) либо жди фикса! Также если проблема напиши проблему в форуме (но ни в коем случае не пали ключ и тп по правилам)! И также для скачки торрентов использовать только на спец серверах тут! И желательно юзать кфг по порядку сверху вниз с начала!
@@ -515,4 +516,5 @@ vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:4249?security=reality
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:2443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.serverstats.ru&sid=a20d3ed244c76426#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%28VPN%2336-%D0%9C%D0%BE%D1%81%D1%82%E2%9A%A1%29
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-31
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-42
+
 

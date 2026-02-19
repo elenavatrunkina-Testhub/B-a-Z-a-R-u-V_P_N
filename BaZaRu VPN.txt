@@ -8,6 +8,7 @@
 #profile-web-page-url: https://t.me/LowiK_Live
 #profile-contact: https://t.me/LowiKLive
 
+vless://228666777116113371488@xn--   -5cdctkhpcefgocc2beifhhgrpnmpn1e:1488?security=none&encryption=none&host=%D0%A2%D0%93%D0%9A%3A%20%40LowiK_Live&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20Happ%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%21
 vless://d0a0fe2b-d7c7-471a-88a8-d65948a15fa6@de.appav.net:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%84%961
 vless://d0a0fe2b-d7c7-471a-88a8-d65948a15fa6@de.appav.net:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%84%962
 vless://d0a0fe2b-d7c7-471a-88a8-d65948a15fa6@89.144.35.135:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%84%963%20%28%D1%8E%D1%82%D1%83%D0%B1%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%29
@@ -581,6 +582,7 @@ vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:4249?security=reality
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@144.31.107.73:2443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.serverstats.ru&sid=a20d3ed244c76426#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%28VPN%2336-%D0%9C%D0%BE%D1%81%D1%82%E2%9A%A1%29
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-31
 vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@45.145.40.62:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#Balance-42
+
 
 
 
